@@ -7,7 +7,7 @@ Olá, Me chamo Wesley, tenho 19 anos, estou atualmente cursando ciência da comp
   - ⚡Gosto de animes, principalmente shounens e seinens
   - ⚡Sonho em melhorar o mundo de alguma forma
   - ⚡Tenho formação em técnico em informática
-  - ⚡Não gosto de comidas soces no geral
+  - ⚡Não gosto de comidas doces no geral
   - ⚡Gosto de jogar lol e valorant
 
 ## 🛠️ Skills:
