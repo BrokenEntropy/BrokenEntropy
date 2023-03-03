@@ -1,7 +1,7 @@
 <img src="https://64.media.tumblr.com/b2604a30d987bf4c4a606a39507d1e64/tumblr_p7gfhr8neD1wayxevo3_r1_400.png" width="20%" height="20%" hspace="40%">
 
 ## ⚡ Sobre mim: 
-Olá, Me chamo Wesley, tenho 19 anos, estou atualmente cursando ciência da computação na ufc, tenho interesse principalmente em assuntos relacionados a programação, matemática e física.
+Olá, me chamo Wesley, tenho 19 anos e estou atualmente cursando Ciência da Computação na UFC. Tenho como principal interesse assuntos relacionados à programação, matemática e física.
 
 ## ☁ Mais sobre mim:
   - ⚡Gosto de animes, principalmente shounens e seinens
