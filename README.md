@@ -23,5 +23,5 @@ Olá, me chamo Wesley, tenho 19 anos e estou atualmente cursando Ciência da Com
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=BrokenEntropy&show_icons=true&theme=tokyonight" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrokenEntropy&layout=compact8&langs_count=20&&theme=tokyonight" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrokenEntropy&layout=compact8&langs_count=8&&theme=tokyonight" width="30%">
 </div>
